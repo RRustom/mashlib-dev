@@ -352,11 +352,10 @@ src/versionInfo.ts
 
 # solid-ui
 node_modules
-dist
-lib
-src/versionInfo.ts
-.idea
-.vscode
-coverage
-Documentation/api
-examples/storybook
+workspaces/solid-ui/dist
+workspaces/solid-ui/src/versionInfo.ts
+workspaces/solid-ui/.idea
+workspaces/solid-ui/.vscode
+workspaces/solid-ui/coverage
+workspaces/solid-ui/Documentation/api
+workspaces/solid-ui/examples/storybook

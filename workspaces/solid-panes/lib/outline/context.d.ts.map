@@ -1,0 +1,1 @@
+{"version":3,"file":"context.d.ts","sourceRoot":"","sources":["../../src/outline/context.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,SAAS,EAAE,YAAY,EAAE,MAAM,eAAe,CAAA;AAG3E,OAAO,EAAE,UAAU,EAAE,MAAM,aAAa,CAAA;AAExC,wBAAgB,aAAa,CAC3B,GAAG,EAAE,YAAY,EACjB,YAAY,EAAE,YAAY,EAC1B,KAAK,EAAE,SAAS,EAChB,KAAK,EAAE,UAAU,GAChB,kBAAkB,CAUpB"}
